@@ -32,5 +32,33 @@
     <ClCompile Include="TServerFramework.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Apps\Blog\Modules\Admin\Controllers\IndexController.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Apps\Blog\Modules\Home\Controllers\IndexController.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Apps\Blog\Modules\Home\Models\User.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Apps\Blog\Resources\Lang\zh_CN\messages.h">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Apps\Blog\Public\assets\css\style.css" />
+    <None Include="Apps\Blog\Public\assets\js\app.js" />
+    <None Include="Apps\Blog\Resources\View\Home\Index\index.html" />
+    <None Include="TSoftware\TServerFramework\tests\.gitkeep" />
+    <None Include="TSoftware\TServerFramework\src\.gitkeep" />
+    <None Include="Vendor\.gitkeep" />
+    <None Include="Apps\Blog\Public\pages\.gitkeep" />
+    <None Include="Apps\Blog\Resources\View\Admin\.gitkeep" />
+    <None Include="Apps\MessageQueue\.gitkeep" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Apps\Blog\Public\uploads\201709\IMG_2017091412000001ABCDE.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
   </ItemGroup>
 </Project>
