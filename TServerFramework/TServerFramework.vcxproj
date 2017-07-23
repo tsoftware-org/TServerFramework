@@ -163,6 +163,7 @@
     <None Include="Apps\MessageQueue\.gitkeep" />
     <None Include="TSoftware\TServerFramework\src\.gitkeep" />
     <None Include="TSoftware\TServerFramework\tests\.gitkeep" />
+    <None Include="Docs\doc.md" />
     <None Include="Vendor\.gitkeep" />
   </ItemGroup>
   <ItemGroup>

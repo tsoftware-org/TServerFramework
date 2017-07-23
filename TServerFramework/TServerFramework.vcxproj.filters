@@ -55,6 +55,7 @@
     <None Include="Apps\Blog\Public\pages\.gitkeep" />
     <None Include="Apps\Blog\Resources\View\Admin\.gitkeep" />
     <None Include="Apps\MessageQueue\.gitkeep" />
+    <None Include="Docs\doc.md" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="Apps\Blog\Public\uploads\201709\IMG_2017091412000001ABCDE.jpg">
